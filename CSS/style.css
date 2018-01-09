@@ -1,3 +1,25 @@
 .box{
-    border: 1px solid black;
+    border: 2px solid #005496;
+    color: #005496;
+    overflow: hidden;
+    align-content: center;
+    text-align: center;
+    padding:20px;
+    font-size: 1.5em;
 }
+.product-list {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+img {
+    max-width: 300px;
+    margin: 20px;
+}
+/*a:nth-child(odd){*/
+    /*background:#005496;*/
+    /*color:#ebebeb;*/
+/*}*/
+/*a:nth-child(even){*/
+    /*background:#ebebeb;*/
+    /*color:#005496;*/
+/*}*/
