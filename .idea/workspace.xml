@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df0fbf49-da88-4f9a-841a-134a9f8497fd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/aerial-equipment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/batteries.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carriers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/new-equipment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/powerboss-tennants.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/style.css" afterPath="$PROJECT_DIR$/CSS/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/warehouse.html" afterPath="$PROJECT_DIR$/warehouse.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,12 +20,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="warehouse.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/warehouse.html">
+      <file leaf-file-name="batteries.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/batteries.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="449">
+              <caret line="34" column="95" lean-forward="true" selection-start-line="34" selection-start-column="95" selection-end-line="34" selection-end-column="122" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carriers.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/carriers.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="powerboss-tennants.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/powerboss-tennants.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aerial-equipment.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aerial-equipment.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -29,8 +71,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="5" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
+            <state relative-caret-position="308">
+              <caret line="22" column="14" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -41,8 +83,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -59,8 +101,13 @@
       <list>
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/CSS/style.css" />
         <option value="$PROJECT_DIR$/warehouse.html" />
+        <option value="$PROJECT_DIR$/new-equipment.html" />
+        <option value="$PROJECT_DIR$/CSS/style.css" />
+        <option value="$PROJECT_DIR$/batteries.html" />
+        <option value="$PROJECT_DIR$/aerial-equipment.html" />
+        <option value="$PROJECT_DIR$/carriers.html" />
+        <option value="$PROJECT_DIR$/powerboss-tennants.html" />
       </list>
     </option>
   </component>
@@ -71,7 +118,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="540" />
+    <option name="x" value="661" />
     <option name="y" value="23" />
     <option name="width" value="982" />
     <option name="height" value="1023" />
@@ -241,15 +288,15 @@
       <workItem from="1510679045415" duration="2380000" />
       <workItem from="1510850049689" duration="61000" />
       <workItem from="1515456846676" duration="6158000" />
-      <workItem from="1515510418785" duration="736000" />
+      <workItem from="1515510418785" duration="5732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16084000" />
+    <option name="totallyTimeSpent" value="21080000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="540" y="23" width="982" height="1023" extended-state="0" />
+    <frame x="661" y="23" width="982" height="1023" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -261,7 +308,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -360,17 +407,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/warehouse.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="365">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
+        <state relative-caret-position="308">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="24" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new-equipment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="31" column="87" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="34" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aerial-equipment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carriers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/powerboss-tennants.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/batteries.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="34" column="95" lean-forward="true" selection-start-line="34" selection-start-column="95" selection-end-line="34" selection-end-column="122" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

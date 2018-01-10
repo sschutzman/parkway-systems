@@ -14,7 +14,16 @@
 img {
     max-width: 300px;
     margin: 20px;
+    clear: both;
 }
+
+
+.product-list a span{
+    clear: both;
+    display:block;
+
+}
+
 /*a:nth-child(odd){*/
     /*background:#005496;*/
     /*color:#ebebeb;*/
